@@ -1,4 +1,4 @@
-# OIBSIP_Pizza-delivery-app
+# OIBSIP_PizzaDelivery
 
 This is a Full stack Pizza Delivery Web App .
 
