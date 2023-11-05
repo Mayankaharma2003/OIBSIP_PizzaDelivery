@@ -30,4 +30,4 @@ https://pizza-delivery-app-e1273.web.app/
 
 ## Demo :-
 
-https://user-images.githubusercontent.com/81703477/176437498-a0c951d8-1c74-427f-8cc8-8ed6c4f3afe0.mp4
+
